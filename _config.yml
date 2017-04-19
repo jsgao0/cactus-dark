@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: https://github.com/jsgao0
 
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/jsgao0
 
 customize:
     gravatar:
@@ -27,10 +27,10 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: https://github.com/jsgao0
+        #twitter: /
+        facebook: https://www.facebook.com/AnsonOnly
+        linkedin: https://www.linkedin.com/in/jsgao0/
     show_all_posts: false
     post_count: 5
     highlight: rainbow
@@ -41,7 +41,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: UA-59178595-2 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
