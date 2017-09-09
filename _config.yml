@@ -28,9 +28,7 @@ customize:
         gravator: false
     social_links:
         github: https://github.com/jsgao0
-        #twitter: /
-        facebook: https://www.facebook.com/AnsonOnly
-        linkedin: https://www.linkedin.com/in/jsgao0/
+        envelope: mailto:s1496k030@gmail.com
     show_all_posts: false
     post_count: 5
     highlight: rainbow
